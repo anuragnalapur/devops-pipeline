@@ -34,7 +34,7 @@
           </snapshots>
           <id>central</id>
           <name>iwayq-libs-release-local</name>
-          <url>http://18.207.136.250:8082/artifactory/iwayq-libs-release</url>
+          <url>http://18.207.136.250:8081/artifactory/iwayq-libs-release</url>
 	  <blocked>false</blocked>
         </pluginRepository>
         </pluginRepositories>
