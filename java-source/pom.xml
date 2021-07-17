@@ -8,12 +8,12 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.iwayq</groupId>
-	<artifactId>iwayQApp</artifactId>
-	<version>1.0-RELEASE</version>
+	<groupId>com.company</groupId>
+	<artifactId>login-app</artifactId>
+	<version>1.0</version>
 	<packaging>war</packaging>
-	<name>iwayQApp</name>
-	<description>iwayQ DevOps project for Spring Boot</description>
+	<name>login-app</name>
+	<description>login-app DevOps project for Spring Boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -67,11 +67,5 @@
 			</plugin>
 		</plugins>
 	</build>
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>iwayq-libs-release-local</name>
-        <url>http://18.207.136.250:8082/artifactory/iwayq-libs-release-local</url>
-    </repository>
-</distributionManagement>
+
 </project>
